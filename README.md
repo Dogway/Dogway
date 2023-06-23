@@ -9,7 +9,10 @@ My future endeavours comprise cross-platform mobile/Desktop APP development that
 My abilities are comprehension and simplification of complex matters, pragmatic coder but accuracy first, and user experience awareness. Hard worker.
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@suupaauozaden3463) 
+<p>
+<img href="http://www.artstation.com/dogway" src="https://www.artstation.com/assets/logo-da586a7166dda92ede057f15b12c0e8c.svg" title="ArtStation" alt="ArtStation" width="110" height="20"/>&nbsp;
+<img href="https://youtube.com/@@suupaauozaden3463" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" title="YouTube" alt="YouTube" width="75" height="20"/>&nbsp;
+</p>
 
 # 💻 Tools:
 <p>
