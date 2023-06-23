@@ -34,7 +34,7 @@ My abilities are comprehension and simplification of complex matters, pragmatic 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code"/></a>&nbsp;
 </p>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dogway&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dogway&theme=vue-dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogway&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -43,4 +43,7 @@ My abilities are comprehension and simplification of complex matters, pragmatic 
 [![](https://visitcount.itsvg.in/api?id=Dogway&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/UozaStudio) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dogway) 
+<p>
+  <a href="https://paypal.me/UozaStudio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/PayPal_Logo2014.svg" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code"/></a>&nbsp;
+<a href="https://ko-fi.com/dogway" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code"/></a>&nbsp;
+</p>
