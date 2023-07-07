@@ -1,4 +1,3 @@
-# Background:
 Originally since 15 a 3D character artist with a strong focus on technical areas like lighting, realistic shading and specially color management, as well as UX/workflow.
 
 Repurposed to image synthesis (image/video restoration), computer vision and color science programmer proficient in AviSynth, GPU Shading language, and some Python. Also proficient in AutoHotkey, a power tool scripting language.
@@ -7,12 +6,6 @@ My future endeavours comprise cross-platform mobile/Desktop APP development in v
 
 ## Skills:
 My abilities are comprehension and simplification of complex matters, pragmatic coder but accuracy foremost, implementing figures derivations when not  commented instead of pasting "magic numbers". Also a strong awareness of user experience (UX).
-
-## Social:
-<p>
-<a href="http://www.artstation.com/dogway" target="_blank" rel="noreferrer"><img src="https://www.artstation.com/assets/logo-da586a7166dda92ede057f15b12c0e8c.svg" title="ArtStation" alt="ArtStation" width="110" height="20"/></a>&nbsp;
-<a href="https://youtube.com/@suupaauozaden3463" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" title="YouTube" alt="YouTube" width="75" height="20"/></a>&nbsp;
-</p>
 
 # Tools:
 <p>
@@ -46,4 +39,10 @@ My abilities are comprehension and simplification of complex matters, pragmatic 
 <p>
   <a href="https://paypal.me/UozaStudio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/PayPal_Logo2014.svg" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code"/></a>&nbsp;
 <a href="https://ko-fi.com/dogway" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg" width="36" height="36" alt="Visual Studio Code" title="Visual Studio Code"/></a>&nbsp;
+</p>
+
+## Social:
+<p>
+<a href="http://www.artstation.com/dogway" target="_blank" rel="noreferrer"><img src="https://www.artstation.com/assets/logo-da586a7166dda92ede057f15b12c0e8c.svg" title="ArtStation" alt="ArtStation" width="110" height="20"/></a>&nbsp;
+<a href="https://youtube.com/@suupaauozaden3463" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" title="YouTube" alt="YouTube" width="75" height="20"/></a>&nbsp;
 </p>
