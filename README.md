@@ -2,7 +2,7 @@ Originally since 15 a 3D character artist with a strong focus on technical areas
 
 Repurposed to image synthesis (image/video restoration), computer vision and color science programmer proficient in AviSynth, GPU Shading language, and some Python. Also proficient in AutoHotkey, a power tool scripting language.
 
-My future endeavours comprise cross-platform mobile/Desktop APP development in view of making a change in people daily lifes.
+My future endeavours comprise cross-platform mobile/Desktop APP development in view of making a change in people daily lives.
 
 ## Skills:
 My abilities are comprehension and simplification of complex matters, pragmatic coder but accuracy foremost, implementing figures derivations when not  commented instead of pasting "magic numbers". Also a strong awareness of user experience (UX).
