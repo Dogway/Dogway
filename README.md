@@ -6,7 +6,7 @@ Repurposed to image synthesis (image/video restoration), computer vision and col
 My future endeavours comprise cross-platform mobile/Desktop APP development in view of making a change in people daily lifes.
 
 ## Skills:
-My abilities are comprehension and simplification of complex matters, pragmatic coder but accuracy foremost, implementing figures derivations when not  commented at least instead of pasting "magic numbers". Also a strong awareness of user experience (UX).
+My abilities are comprehension and simplification of complex matters, pragmatic coder but accuracy foremost, implementing figures derivations when not  commented instead of pasting "magic numbers". Also a strong awareness of user experience (UX).
 
 ## Social:
 <p>
@@ -17,11 +17,11 @@ My abilities are comprehension and simplification of complex matters, pragmatic 
 # Tools:
 <p>
 <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer"><img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/maya-2023-simplified-badge-75x75.png" title="Maya" alt="Maya" width="40" height="40"/></a>&nbsp;
+<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/></a>&nbsp;
 <a href="https://www.maxon.net/en/zbrush" target="_blank" rel="noreferrer"><img src="https://logoeps.com/wp-content/uploads/2012/11/zbrush-vector-logo.png" title="ZBrush" alt="ZBrush" width="40" height="40"/></a>&nbsp;
 <a href="https://www.adobe.com/products/substance3d-designer.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/icons/ds_appicon_256.svg" title="Substance" alt="Substance Designer" width="40" height="40"/></a>&nbsp;
 <a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" title="Substance" alt="Substance Painter" width="40" height="40"/></a>&nbsp;
 <a href="https://www.foundry.com/products/nuke-family/nuke" target="_blank" rel="noreferrer"><img src="https://www.metvid.com/upload/36054216-TheFoundryLogo.png" title="Nuke" alt="Nuke" width="40" height="40"/></a>&nbsp;
-<a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/></a>&nbsp;
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;
 <a href="https://avs-plus.net" target="_blank" rel="noreferrer"><img src="https://avisynthplus.readthedocs.io/en/3.6/_static/DocIcon-Large.svg" title="AVS+" alt="AVS+" width="40" height="40"/></a>&nbsp;
 <a href="https://www.autohotkey.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_(no_text).svg" title="AHK" alt="AHK" width="40" height="40"/></a>&nbsp;
@@ -41,9 +41,6 @@ My abilities are comprehension and simplification of complex matters, pragmatic 
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dogway&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) 
-
----
-[![](https://visitcount.itsvg.in/api?id=Dogway&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## Donating
 <p>
